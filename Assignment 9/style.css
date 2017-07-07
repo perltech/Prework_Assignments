@@ -1,0 +1,41 @@
+.tcolor1 {
+	color: red;
+}
+
+.tcolor2 {
+	color: blue;
+}
+
+.tcolor3 {
+	color: green;
+}
+
+.tbig {
+	font-size: 32px;
+}
+
+.tsmall {
+	font-size: 8px;
+}
+
+.tcenter {
+	text-align: center;
+}
+
+.tbold {
+	font-weight: bold;
+}
+
+.tfontfam {
+	font-family: sans-serif;
+}
+
+.tboldo {
+	font-weight: bold;
+	color: orange;
+}
+
+.styledFont {
+	color: green;
+	font-family: sans-serif;
+}
